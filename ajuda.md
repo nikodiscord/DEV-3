@@ -13,9 +13,13 @@
 ______________________________
 #//node js     
 ______________________________
-DEV-2
 
-#NOVOS COMANDOS EM JS ;) ---------------------#----------------------
+----------------------#---------------------
+DEV-2
+----------------------#---------------------
+#NOVOS COMANDOS EM JS ;)
+
+---------------------#----------------------
 
 BAIXAR OS MODULOS
 
@@ -26,3 +30,13 @@ EX:
 npm i moment
 
 ----------------------#---------------------
+DEV-3
+----------------------#---------------------
+
+Para marca o chat <#mais id aqui>
+Para dar espaço \n utilize isso para descer também a linha..
+
+Ex: Olá membro \n Leia as regras ---> vai ficar assim se usar o \n
+
+Olá membro
+Leia as regras
